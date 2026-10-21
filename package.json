@@ -1,0 +1,8 @@
+{
+  "name": "student-query-management",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Student Query & Request Management System (DSA project)",
+  "scripts": { "start": "node backend/server.js", "test": "node --test dsa/tests/dsa.test.js backend/api.test.js" },
+  "engines": { "node": ">=22.5" }
+}
